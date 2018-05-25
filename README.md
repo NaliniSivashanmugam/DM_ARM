@@ -1,1 +1,1 @@
-# DM_ARM
+# DataMining_AssociationRuleMining
